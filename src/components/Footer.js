@@ -69,9 +69,6 @@ const Footer = () => (
                 <Link href="https://www.netlify.com/" mr={1}>
                   Netlify
                 </Link>
-                <span role="img" aria-label="heart">
-                  ❤️
-                </span>
               </TextFooter>
             </Fade>
             <Flex>
